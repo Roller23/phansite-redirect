@@ -1,2 +1,3 @@
 # phansite-redirect
-Redirect to new domain
+
+Redirect all traffic to https://phansite-archives.glitch.me/
